@@ -1,2 +1,2 @@
 # GraphicSkills
-Several scripts for creating and developing detailed graphics for data visualization
+Several scripts to create and develop detailed graphics for data visualization
